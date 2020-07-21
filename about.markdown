@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I am a Product guy from a data background. I previously co-founded Scale Labs.
-I mainly write about business, tech, movies, and books. 
-You can always reach me on [Twitter][twitter-profile]. 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-PS - Let's pray the posts will be considerably less dry than this page.    
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
 
-[twitter-profile]: https://twitter.com/kramodp
+[jekyll-organization]: https://github.com/jekyll
